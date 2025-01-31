@@ -68,16 +68,5 @@ Icarus Verilog & GTKWave Installed Successfully!
 - Do **not** forget to clean compiled files (`rm *.out` when done).
 - Do **not** assume GTKWave auto-loads files; open `.vcd` manually.
 
-## 📂 Repository Structure
-```
-Verilog-env-setup/
-│── README.md        # Documentation
-│── install.sh       # Automated installation script (optional)
-│── test.v           # Sample Verilog code
-│── LICENSE          # Open-source license
-```
-
-
----
 
 This setup ensures a smooth experience for Verilog development and debugging! 🚀
