@@ -68,5 +68,8 @@ Icarus Verilog & GTKWave Installed Successfully!
 - Do **not** forget to clean compiled files (`rm *.out` when done).
 - Do **not** assume GTKWave auto-loads files; open `.vcd` manually.
 
+### Watch the video of installation 
+![Installtion steps](Installation_steps.webm)
+
 
 This setup ensures a smooth experience for Verilog development and debugging! 🚀
