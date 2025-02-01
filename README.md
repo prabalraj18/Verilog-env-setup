@@ -70,3 +70,4 @@ Icarus Verilog & GTKWave Installed Successfully!
 
 
 This setup ensures a smooth experience for Verilog development and debugging! 🚀
+
